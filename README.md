@@ -1,6 +1,6 @@
 # KM-5 Heat-Meter Control Panel
 
-I wrote this in 2005. It allows to control KM-5 heat-meter using RS232 interface,
+I wrote this program in 2005. It allows to control KM-5 heat-meter using RS232 interface,
 you can also connect it thru RS232-USB converter
 
 this program simulates AP-5 and can control real KM-5 heat-meter.
