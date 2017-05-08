@@ -2,7 +2,8 @@
 
 I wrote this program in 2005. It allows to control KM-5 heat-meter using RS232 interface,
 you can also connect it thru RS232-USB converter. I never worked for TBN company,
-I just used damaged KM-5 devices and performed reverse engeneering.  
+I just used damaged KM-5 devices to develop software for service company startup 
+and performed reverse engeneering.  
 
 this program simulates AP-5 and can control real KM-5 heat-meter.
 With this program you can also access internal KM-5 database in order to get reports for 
