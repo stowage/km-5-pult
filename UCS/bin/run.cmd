@@ -1,0 +1,1 @@
+javaw -classpath %classpath%;.;C:\UCS\Project\UCS\bin\comm.jar;C:\UCS\Project\UCS\bin\Sprinta2000.jar;C:\UCS\Project\UCS\bin\RXTXcomm.jar;C:\UCS\Project\UCS\bin\ucs.jar org.ucs.scada.UCSExplorer > out.log

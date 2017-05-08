@@ -1,0 +1,62 @@
+<html><body>
+<h3>Отчет за период с19.03.2006 по 20.03.2006 (БД:почасовая)</h3><table width=100% border=0>
+<tr>
+<td align=left>Номер: 00000001</td>
+<td align=right>Тип прибора: КМ-5-2 v02.29</td>
+</tr>
+</table>
+<br>
+<table width=100% border=1>
+<tr>
+<td align=center>Дата</td><td align=center>Q</td><td align=center>M1</td><td align=center>M2</td><td align=center>M1-M2</td><td align=center>M2-M1</td><td align=center>T1</td><td align=center>T2</td><td align=center>T1-T2</td><td align=center>P1</td><td align=center>P2</td><td align=center>Tp</td><td align=center>Ошибки</td></tr>
+<tr>
+<td align=center>18.03.2006 21:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>24,07</td><td align=center>22,73</td><td align=center>1,34</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>18.03.2006 22:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>23,34</td><td align=center>22,42</td><td align=center>0,92</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>18.03.2006 23:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>23,81</td><td align=center>22,28</td><td align=center>1,53</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>19.03.2006 00:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>19.03.2006 08:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>26,12</td><td align=center>23,10</td><td align=center>3,02</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>19.03.2006 09:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>24,54</td><td align=center>23,45</td><td align=center>1,10</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>19.03.2006 10:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>25,42</td><td align=center>23,54</td><td align=center>1,88</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>19.03.2006 11:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>26,03</td><td align=center>23,72</td><td align=center>2,31</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>0,00</td><td align=center>U</td></tr>
+<tr>
+<td align=center>19.03.2006 12:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>25,75</td><td align=center>23,96</td><td align=center>1,79</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>19.03.2006 13:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>19.03.2006 15:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>22,78</td><td align=center>22,64</td><td align=center>0,14</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>19.03.2006 16:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>23,13</td><td align=center>22,28</td><td align=center>0,86</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>19.03.2006 17:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>26,43</td><td align=center>22,61</td><td align=center>3,82</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>19.03.2006 18:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>23,25</td><td align=center>22,55</td><td align=center>0,70</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>19.03.2006 19:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>23,47</td><td align=center>22,37</td><td align=center>1,10</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>19.03.2006 20:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>23,41</td><td align=center>22,15</td><td align=center>1,26</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>19.03.2006 21:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>23,13</td><td align=center>22,01</td><td align=center>1,11</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>19.03.2006 22:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>22,78</td><td align=center>22,01</td><td align=center>0,77</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>19.03.2006 23:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>22,53</td><td align=center>21,89</td><td align=center>0,64</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>20.03.2006 00:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>22,93</td><td align=center>21,80</td><td align=center>1,13</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>20.03.2006 01:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>22,49</td><td align=center>21,66</td><td align=center>0,83</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr border=0>
+<td align=center><b>Итого:</b></td><td align=center><b>0,000</b></td><td align=center><b>0,00</b></td><td align=center><b>0,00</b></td><td align=center><b>0,00</b></td><td align=center><b>0,00</b></td><td align=center><b>455,41</b></td><td align=center><b>429,17</b></td><td align=center><b>26,24</b></td><td align=center><b>131,01</b></td><td align=center><b>38,35</b></td><td align=center><b>0,00</b></td></tr>
+</table>
+<br><table border=1><tr><td align=center>Дата/Время</td><td align=center>Q</td><td align=center>M1</td><td align=center>M2</td><td align=center>Tp</td></tr><tr border=0>
+<td align=center>20.03.2006 01:00:00</td><td align=center>113,640</td><td align=center>388 604,88</td><td align=center>387 651,38</td><td align=center>1 957,75</td></tr>
+<tr border=0>
+<td align=center>18.03.2006 20:00:00</td><td align=center>113,640</td><td align=center>388 604,88</td><td align=center>387 651,38</td><td align=center>1 957,75</td></tr>
+</table>
+</body></html>

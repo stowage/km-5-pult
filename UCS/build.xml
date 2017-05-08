@@ -1,0 +1,28 @@
+<project name="UCS" default="ucs" basedir=".">
+
+    <fileset id="project.core.lib" dir="lib">
+        <include name="*.jar"/>
+    </fileset>
+
+   <target name="ucs">
+        <delete dir="build"/>
+        <tstamp/>
+        <mkdir dir="build"/>
+        <mkdir dir="bin"/>
+        <javac srcdir="src" destdir="build">
+            <classpath>
+                <fileset refid="project.core.lib"/>
+            </classpath>
+        </javac>
+
+        <ant antfile="${basedir}/manifest.xml">
+            <property name="project-name" value="${ant.project.name}"/>
+            <property name="dest-dir" value="build"/>
+        </ant>
+
+        <jar jarfile="bin/ucs.jar" basedir="build" manifest="build/manifest.mf" includes="**/*.*"/>
+        <delete dir="build"/>
+    </target>
+
+
+</project>

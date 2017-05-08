@@ -1,0 +1,22 @@
+<html><body>
+<h3>Отчет за период с01.03.2005 по 20.03.2006 (БД:погодовая)</h3><table width=100% border=0>
+<tr>
+<td align=left>Номер: 00000001</td>
+<td align=right>Тип прибора: КМ-5-2 v02.29</td>
+</tr>
+</table>
+<br>
+<table width=100% border=1>
+<tr>
+<td align=center>Дата</td><td align=center>Q</td><td align=center>M1</td><td align=center>M2</td><td align=center>M1-M2</td><td align=center>M2-M1</td><td align=center>T1</td><td align=center>T2</td><td align=center>T1-T2</td><td align=center>P1</td><td align=center>P2</td><td align=center>Tp</td><td align=center>Ошибки</td></tr>
+<tr>
+<td align=center>05.12.2005 07:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>24,89</td><td align=center>24,52</td><td align=center>0,37</td><td align=center>5,69</td><td align=center>2,06</td><td align=center>4,51</td><td align=center>U</td></tr>
+<tr border=0>
+<td align=center><b>Итого:</b></td><td align=center><b>0,262</b></td><td align=center><b>1 213,78</b></td><td align=center><b>1 210,87</b></td><td align=center><b>2,91</b></td><td align=center><b>0,00</b></td><td align=center><b>24,89</b></td><td align=center><b>24,52</b></td><td align=center><b>0,37</b></td><td align=center><b>5,69</b></td><td align=center><b>2,06</b></td><td align=center><b>4,51</b></td></tr>
+</table>
+<br><table border=1><tr><td align=center>Дата/Время</td><td align=center>Q</td><td align=center>M1</td><td align=center>M2</td><td align=center>Tp</td></tr><tr border=0>
+<td align=center>05.12.2005 07:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>4,51</td></tr>
+<tr border=0>
+<td align=center>----</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td></tr>
+</table>
+</body></html>

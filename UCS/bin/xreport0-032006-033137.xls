@@ -1,0 +1,994 @@
+<html><body>
+<h3>Îעקוע חא ןונטמה ס01.03.2005 ןמ 20.03.2006 (ÁÄ:ןמקאסמגאÿ)</h3><table width=100% border=0>
+<tr>
+<td align=left>Íמלונ: 00000001</td>
+<td align=right>Òטן ןנטבמנא: ÊÌ-5-2 v02.29</td>
+</tr>
+</table>
+<br>
+<table width=100% border=1>
+<tr>
+<td align=center>Äאעא</td><td align=center>Q</td><td align=center>M1</td><td align=center>M2</td><td align=center>M1-M2</td><td align=center>M2-M1</td><td align=center>T1</td><td align=center>T2</td><td align=center>T1-T2</td><td align=center>P1</td><td align=center>P2</td><td align=center>Tp</td><td align=center>Îרטבךט</td></tr>
+<tr>
+<td align=center>29.03.2005 17:00:00</td><td align=center>0,011</td><td align=center>0,92</td><td align=center>0,92</td><td align=center>0,00</td><td align=center>-----</td><td align=center>22,12</td><td align=center>9,75</td><td align=center>12,38</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>0,11</td><td align=center></td></tr>
+<tr>
+<td align=center>29.03.2005 18:00:00</td><td align=center>0,089</td><td align=center>9,58</td><td align=center>9,55</td><td align=center>0,03</td><td align=center>-----</td><td align=center>21,27</td><td align=center>12,40</td><td align=center>8,86</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>1,11</td><td align=center></td></tr>
+<tr>
+<td align=center>29.03.2005 19:00:00</td><td align=center>0,136</td><td align=center>18,23</td><td align=center>18,18</td><td align=center>0,06</td><td align=center>-----</td><td align=center>21,00</td><td align=center>15,70</td><td align=center>5,30</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>2,11</td><td align=center></td></tr>
+<tr>
+<td align=center>29.03.2005 20:00:00</td><td align=center>0,164</td><td align=center>26,89</td><td align=center>26,80</td><td align=center>0,09</td><td align=center>-----</td><td align=center>21,01</td><td align=center>17,54</td><td align=center>3,47</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>3,00</td><td align=center></td></tr>
+<tr>
+<td align=center>29.03.2005 21:00:00</td><td align=center>0,164</td><td align=center>35,55</td><td align=center>35,42</td><td align=center>0,13</td><td align=center>-----</td><td align=center>21,02</td><td align=center>18,47</td><td align=center>2,54</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>3,00</td><td align=center></td></tr>
+<tr>
+<td align=center>29.03.2005 22:00:00</td><td align=center>0,164</td><td align=center>44,21</td><td align=center>44,04</td><td align=center>0,16</td><td align=center>-----</td><td align=center>21,01</td><td align=center>18,95</td><td align=center>2,06</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>3,00</td><td align=center></td></tr>
+<tr>
+<td align=center>29.03.2005 23:00:00</td><td align=center>0,164</td><td align=center>52,87</td><td align=center>52,67</td><td align=center>0,20</td><td align=center>-----</td><td align=center>21,02</td><td align=center>19,21</td><td align=center>1,81</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>3,00</td><td align=center></td></tr>
+<tr>
+<td align=center>30.03.2005 00:00:00</td><td align=center>0,164</td><td align=center>61,52</td><td align=center>61,29</td><td align=center>0,23</td><td align=center>-----</td><td align=center>20,98</td><td align=center>19,33</td><td align=center>1,66</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>3,00</td><td align=center></td></tr>
+<tr>
+<td align=center>30.03.2005 01:00:00</td><td align=center>0,164</td><td align=center>70,18</td><td align=center>69,91</td><td align=center>0,27</td><td align=center>-----</td><td align=center>20,96</td><td align=center>19,38</td><td align=center>1,58</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>3,00</td><td align=center></td></tr>
+<tr>
+<td align=center>30.03.2005 02:00:00</td><td align=center>0,164</td><td align=center>78,84</td><td align=center>78,54</td><td align=center>0,30</td><td align=center>-----</td><td align=center>20,94</td><td align=center>19,40</td><td align=center>1,54</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>3,00</td><td align=center></td></tr>
+<tr>
+<td align=center>30.03.2005 03:00:00</td><td align=center>0,164</td><td align=center>87,50</td><td align=center>87,16</td><td align=center>0,34</td><td align=center>-----</td><td align=center>20,92</td><td align=center>19,40</td><td align=center>1,52</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>3,00</td><td align=center></td></tr>
+<tr>
+<td align=center>30.03.2005 04:00:00</td><td align=center>0,164</td><td align=center>96,16</td><td align=center>95,78</td><td align=center>0,38</td><td align=center>-----</td><td align=center>20,93</td><td align=center>19,40</td><td align=center>1,53</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>3,00</td><td align=center></td></tr>
+<tr>
+<td align=center>30.03.2005 05:00:00</td><td align=center>0,164</td><td align=center>104,81</td><td align=center>104,40</td><td align=center>0,41</td><td align=center>-----</td><td align=center>21,06</td><td align=center>19,43</td><td align=center>1,63</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>3,00</td><td align=center></td></tr>
+<tr>
+<td align=center>30.03.2005 06:00:00</td><td align=center>0,164</td><td align=center>113,47</td><td align=center>113,03</td><td align=center>0,44</td><td align=center>-----</td><td align=center>21,22</td><td align=center>19,54</td><td align=center>1,68</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>3,00</td><td align=center></td></tr>
+<tr>
+<td align=center>30.03.2005 07:00:00</td><td align=center>0,220</td><td align=center>122,13</td><td align=center>121,66</td><td align=center>0,47</td><td align=center>-----</td><td align=center>19,11</td><td align=center>12,51</td><td align=center>6,60</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>3,87</td><td align=center></td></tr>
+<tr>
+<td align=center>30.03.2005 08:00:00</td><td align=center>0,258</td><td align=center>126,95</td><td align=center>126,46</td><td align=center>0,49</td><td align=center>-----</td><td align=center>20,07</td><td align=center>12,35</td><td align=center>7,72</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>4,42</td><td align=center></td></tr>
+<tr>
+<td align=center>02.04.2005 12:00:00</td><td align=center>0,258</td><td align=center>133,53</td><td align=center>133,03</td><td align=center>0,51</td><td align=center>-----</td><td align=center>22,93</td><td align=center>24,17</td><td align=center>-----</td><td align=center>6,87</td><td align=center>2,01</td><td align=center>4,42</td><td align=center></td></tr>
+<tr>
+<td align=center>02.04.2005 16:00:00</td><td align=center>0,258</td><td align=center>141,75</td><td align=center>141,22</td><td align=center>0,53</td><td align=center>-----</td><td align=center>23,01</td><td align=center>24,67</td><td align=center>-----</td><td align=center>6,87</td><td align=center>2,01</td><td align=center>4,42</td><td align=center></td></tr>
+<tr>
+<td align=center>02.04.2005 17:00:00</td><td align=center>0,258</td><td align=center>150,40</td><td align=center>149,84</td><td align=center>0,56</td><td align=center>-----</td><td align=center>23,31</td><td align=center>26,32</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,42</td><td align=center></td></tr>
+<tr>
+<td align=center>02.04.2005 18:00:00</td><td align=center>0,258</td><td align=center>159,04</td><td align=center>158,46</td><td align=center>0,59</td><td align=center>-----</td><td align=center>23,65</td><td align=center>26,88</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,42</td><td align=center></td></tr>
+<tr>
+<td align=center>02.04.2005 19:00:00</td><td align=center>0,258</td><td align=center>167,69</td><td align=center>167,07</td><td align=center>0,62</td><td align=center>-----</td><td align=center>24,17</td><td align=center>27,50</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,42</td><td align=center></td></tr>
+<tr>
+<td align=center>02.04.2005 20:00:00</td><td align=center>0,258</td><td align=center>175,98</td><td align=center>175,33</td><td align=center>0,65</td><td align=center>-----</td><td align=center>24,40</td><td align=center>27,75</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,42</td><td align=center></td></tr>
+<tr>
+<td align=center>09.04.2005 15:00:00</td><td align=center>0,258</td><td align=center>176,71</td><td align=center>176,07</td><td align=center>0,65</td><td align=center>-----</td><td align=center>24,83</td><td align=center>24,78</td><td align=center>0,05</td><td align=center>6,86</td><td align=center>2,00</td><td align=center>4,42</td><td align=center></td></tr>
+<tr>
+<td align=center>09.04.2005 16:00:00</td><td align=center>0,258</td><td align=center>185,37</td><td align=center>184,70</td><td align=center>0,67</td><td align=center>-----</td><td align=center>25,01</td><td align=center>25,22</td><td align=center>-----</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>4,42</td><td align=center></td></tr>
+<tr>
+<td align=center>09.04.2005 17:00:00</td><td align=center>0,258</td><td align=center>194,01</td><td align=center>193,32</td><td align=center>0,69</td><td align=center>-----</td><td align=center>25,02</td><td align=center>25,50</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,42</td><td align=center></td></tr>
+<tr>
+<td align=center>09.04.2005 18:00:00</td><td align=center>0,258</td><td align=center>202,66</td><td align=center>201,94</td><td align=center>0,72</td><td align=center>-----</td><td align=center>24,74</td><td align=center>25,39</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,42</td><td align=center></td></tr>
+<tr>
+<td align=center>09.04.2005 19:00:00</td><td align=center>0,258</td><td align=center>211,31</td><td align=center>210,56</td><td align=center>0,75</td><td align=center>-----</td><td align=center>24,86</td><td align=center>25,39</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,42</td><td align=center></td></tr>
+<tr>
+<td align=center>09.04.2005 20:00:00</td><td align=center>0,258</td><td align=center>219,96</td><td align=center>219,18</td><td align=center>0,78</td><td align=center>-----</td><td align=center>25,11</td><td align=center>25,62</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,42</td><td align=center></td></tr>
+<tr>
+<td align=center>09.04.2005 21:00:00</td><td align=center>0,258</td><td align=center>228,60</td><td align=center>227,80</td><td align=center>0,80</td><td align=center>-----</td><td align=center>25,30</td><td align=center>25,76</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,42</td><td align=center></td></tr>
+<tr>
+<td align=center>09.04.2005 22:00:00</td><td align=center>0,258</td><td align=center>237,25</td><td align=center>236,42</td><td align=center>0,83</td><td align=center>-----</td><td align=center>25,64</td><td align=center>25,98</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,42</td><td align=center></td></tr>
+<tr>
+<td align=center>09.04.2005 23:00:00</td><td align=center>0,258</td><td align=center>245,89</td><td align=center>245,04</td><td align=center>0,85</td><td align=center>-----</td><td align=center>25,48</td><td align=center>25,99</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,42</td><td align=center></td></tr>
+<tr>
+<td align=center>10.04.2005 00:00:00</td><td align=center>0,258</td><td align=center>254,54</td><td align=center>253,66</td><td align=center>0,88</td><td align=center>-----</td><td align=center>25,43</td><td align=center>25,93</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,42</td><td align=center></td></tr>
+<tr>
+<td align=center>10.04.2005 01:00:00</td><td align=center>0,258</td><td align=center>263,18</td><td align=center>262,27</td><td align=center>0,91</td><td align=center>-----</td><td align=center>25,33</td><td align=center>25,86</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,42</td><td align=center></td></tr>
+<tr>
+<td align=center>10.04.2005 02:00:00</td><td align=center>0,258</td><td align=center>271,83</td><td align=center>270,89</td><td align=center>0,94</td><td align=center>-----</td><td align=center>25,27</td><td align=center>25,81</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,42</td><td align=center></td></tr>
+<tr>
+<td align=center>10.04.2005 03:00:00</td><td align=center>0,258</td><td align=center>280,48</td><td align=center>279,51</td><td align=center>0,97</td><td align=center>-----</td><td align=center>25,21</td><td align=center>25,75</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,42</td><td align=center></td></tr>
+<tr>
+<td align=center>10.04.2005 04:00:00</td><td align=center>0,258</td><td align=center>289,12</td><td align=center>288,13</td><td align=center>1,00</td><td align=center>-----</td><td align=center>25,16</td><td align=center>25,71</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,42</td><td align=center></td></tr>
+<tr>
+<td align=center>10.04.2005 05:00:00</td><td align=center>0,258</td><td align=center>297,77</td><td align=center>296,74</td><td align=center>1,03</td><td align=center>-----</td><td align=center>25,11</td><td align=center>25,68</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,42</td><td align=center></td></tr>
+<tr>
+<td align=center>10.04.2005 06:00:00</td><td align=center>0,258</td><td align=center>306,42</td><td align=center>305,36</td><td align=center>1,06</td><td align=center>-----</td><td align=center>25,29</td><td align=center>25,77</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,42</td><td align=center></td></tr>
+<tr>
+<td align=center>10.04.2005 07:00:00</td><td align=center>0,258</td><td align=center>315,06</td><td align=center>313,98</td><td align=center>1,08</td><td align=center>-----</td><td align=center>25,48</td><td align=center>25,97</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,42</td><td align=center></td></tr>
+<tr>
+<td align=center>10.04.2005 08:00:00</td><td align=center>0,258</td><td align=center>323,71</td><td align=center>322,60</td><td align=center>1,11</td><td align=center>-----</td><td align=center>25,39</td><td align=center>25,97</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,42</td><td align=center></td></tr>
+<tr>
+<td align=center>10.04.2005 09:00:00</td><td align=center>0,258</td><td align=center>332,36</td><td align=center>331,22</td><td align=center>1,14</td><td align=center>-----</td><td align=center>25,34</td><td align=center>25,94</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,42</td><td align=center></td></tr>
+<tr>
+<td align=center>10.04.2005 10:00:00</td><td align=center>0,258</td><td align=center>341,00</td><td align=center>339,84</td><td align=center>1,17</td><td align=center>-----</td><td align=center>24,26</td><td align=center>25,88</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,42</td><td align=center></td></tr>
+<tr>
+<td align=center>10.04.2005 11:00:00</td><td align=center>0,258</td><td align=center>349,67</td><td align=center>348,46</td><td align=center>1,20</td><td align=center>-----</td><td align=center>15,28</td><td align=center>24,06</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,42</td><td align=center></td></tr>
+<tr>
+<td align=center>10.04.2005 12:00:00</td><td align=center>0,258</td><td align=center>358,32</td><td align=center>357,08</td><td align=center>1,24</td><td align=center>-----</td><td align=center>21,18</td><td align=center>26,60</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,42</td><td align=center></td></tr>
+<tr>
+<td align=center>10.04.2005 13:00:00</td><td align=center>0,258</td><td align=center>366,96</td><td align=center>365,70</td><td align=center>1,26</td><td align=center>-----</td><td align=center>24,51</td><td align=center>27,21</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,42</td><td align=center></td></tr>
+<tr>
+<td align=center>10.04.2005 14:00:00</td><td align=center>0,258</td><td align=center>375,60</td><td align=center>374,33</td><td align=center>1,28</td><td align=center>-----</td><td align=center>25,67</td><td align=center>26,28</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,42</td><td align=center></td></tr>
+<tr>
+<td align=center>10.04.2005 15:00:00</td><td align=center>0,258</td><td align=center>384,25</td><td align=center>382,95</td><td align=center>1,30</td><td align=center>-----</td><td align=center>25,49</td><td align=center>26,06</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,42</td><td align=center></td></tr>
+<tr>
+<td align=center>10.04.2005 16:00:00</td><td align=center>0,258</td><td align=center>392,89</td><td align=center>391,57</td><td align=center>1,31</td><td align=center>-----</td><td align=center>25,39</td><td align=center>25,99</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,42</td><td align=center></td></tr>
+<tr>
+<td align=center>10.04.2005 17:00:00</td><td align=center>0,258</td><td align=center>401,90</td><td align=center>400,55</td><td align=center>1,34</td><td align=center>-----</td><td align=center>25,27</td><td align=center>26,34</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,42</td><td align=center></td></tr>
+<tr>
+<td align=center>10.04.2005 18:00:00</td><td align=center>0,258</td><td align=center>410,54</td><td align=center>409,18</td><td align=center>1,36</td><td align=center>-----</td><td align=center>25,24</td><td align=center>25,64</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,42</td><td align=center></td></tr>
+<tr>
+<td align=center>10.04.2005 19:00:00</td><td align=center>0,258</td><td align=center>419,18</td><td align=center>417,80</td><td align=center>1,38</td><td align=center>-----</td><td align=center>25,40</td><td align=center>25,72</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,42</td><td align=center></td></tr>
+<tr>
+<td align=center>10.04.2005 20:00:00</td><td align=center>0,258</td><td align=center>425,35</td><td align=center>423,91</td><td align=center>1,44</td><td align=center>-----</td><td align=center>25,39</td><td align=center>25,74</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,42</td><td align=center></td></tr>
+<tr>
+<td align=center>11.04.2005 21:00:00</td><td align=center>0,258</td><td align=center>428,09</td><td align=center>426,65</td><td align=center>1,45</td><td align=center>-----</td><td align=center>24,32</td><td align=center>24,32</td><td align=center>-----</td><td align=center>6,87</td><td align=center>2,00</td><td align=center>4,42</td><td align=center></td></tr>
+<tr>
+<td align=center>11.04.2005 22:00:00</td><td align=center>0,258</td><td align=center>436,74</td><td align=center>435,27</td><td align=center>1,47</td><td align=center>-----</td><td align=center>24,40</td><td align=center>24,61</td><td align=center>-----</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>4,42</td><td align=center></td></tr>
+<tr>
+<td align=center>11.04.2005 23:00:00</td><td align=center>0,258</td><td align=center>439,24</td><td align=center>437,77</td><td align=center>1,47</td><td align=center>-----</td><td align=center>24,27</td><td align=center>24,55</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,42</td><td align=center></td></tr>
+<tr>
+<td align=center>12.04.2005 06:00:00</td><td align=center>0,258</td><td align=center>446,96</td><td align=center>445,46</td><td align=center>1,49</td><td align=center>-----</td><td align=center>24,26</td><td align=center>24,25</td><td align=center>0,01</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>4,42</td><td align=center></td></tr>
+<tr>
+<td align=center>12.04.2005 07:00:00</td><td align=center>0,258</td><td align=center>455,60</td><td align=center>454,30</td><td align=center>1,30</td><td align=center>-----</td><td align=center>24,26</td><td align=center>24,66</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,42</td><td align=center></td></tr>
+<tr>
+<td align=center>12.04.2005 08:00:00</td><td align=center>0,258</td><td align=center>464,24</td><td align=center>462,92</td><td align=center>1,32</td><td align=center>-----</td><td align=center>24,97</td><td align=center>25,27</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,44</td><td align=center></td></tr>
+<tr>
+<td align=center>12.04.2005 09:00:00</td><td align=center>0,258</td><td align=center>472,89</td><td align=center>471,55</td><td align=center>1,34</td><td align=center>-----</td><td align=center>24,65</td><td align=center>24,74</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,44</td><td align=center></td></tr>
+<tr>
+<td align=center>12.04.2005 10:00:00</td><td align=center>0,258</td><td align=center>481,53</td><td align=center>480,17</td><td align=center>1,35</td><td align=center>-----</td><td align=center>24,31</td><td align=center>24,62</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,44</td><td align=center></td></tr>
+<tr>
+<td align=center>12.04.2005 11:00:00</td><td align=center>0,258</td><td align=center>481,97</td><td align=center>480,62</td><td align=center>1,35</td><td align=center>-----</td><td align=center>24,27</td><td align=center>24,59</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,44</td><td align=center></td></tr>
+<tr>
+<td align=center>13.04.2005 06:00:00</td><td align=center>0,258</td><td align=center>486,51</td><td align=center>485,14</td><td align=center>1,37</td><td align=center>-----</td><td align=center>24,34</td><td align=center>24,56</td><td align=center>-----</td><td align=center>6,87</td><td align=center>2,00</td><td align=center>4,44</td><td align=center></td></tr>
+<tr>
+<td align=center>13.04.2005 07:00:00</td><td align=center>0,258</td><td align=center>495,16</td><td align=center>493,77</td><td align=center>1,39</td><td align=center>-----</td><td align=center>24,82</td><td align=center>25,27</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,44</td><td align=center></td></tr>
+<tr>
+<td align=center>13.04.2005 08:00:00</td><td align=center>0,258</td><td align=center>503,80</td><td align=center>502,39</td><td align=center>1,41</td><td align=center>-----</td><td align=center>25,07</td><td align=center>25,46</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,44</td><td align=center></td></tr>
+<tr>
+<td align=center>13.04.2005 09:00:00</td><td align=center>0,258</td><td align=center>512,43</td><td align=center>511,02</td><td align=center>1,42</td><td align=center>-----</td><td align=center>25,20</td><td align=center>25,56</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,44</td><td align=center></td></tr>
+<tr>
+<td align=center>13.04.2005 10:00:00</td><td align=center>0,258</td><td align=center>521,07</td><td align=center>519,64</td><td align=center>1,43</td><td align=center>-----</td><td align=center>25,19</td><td align=center>25,47</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,44</td><td align=center></td></tr>
+<tr>
+<td align=center>13.04.2005 11:00:00</td><td align=center>0,258</td><td align=center>529,71</td><td align=center>528,26</td><td align=center>1,45</td><td align=center>-----</td><td align=center>25,12</td><td align=center>25,33</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,44</td><td align=center></td></tr>
+<tr>
+<td align=center>13.04.2005 12:00:00</td><td align=center>0,258</td><td align=center>538,35</td><td align=center>536,89</td><td align=center>1,46</td><td align=center>-----</td><td align=center>25,07</td><td align=center>25,29</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,44</td><td align=center></td></tr>
+<tr>
+<td align=center>13.04.2005 13:00:00</td><td align=center>0,258</td><td align=center>546,99</td><td align=center>545,51</td><td align=center>1,48</td><td align=center>-----</td><td align=center>25,08</td><td align=center>25,31</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,44</td><td align=center></td></tr>
+<tr>
+<td align=center>13.04.2005 14:00:00</td><td align=center>0,258</td><td align=center>555,62</td><td align=center>554,13</td><td align=center>1,49</td><td align=center>-----</td><td align=center>25,06</td><td align=center>25,37</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,44</td><td align=center></td></tr>
+<tr>
+<td align=center>13.04.2005 15:00:00</td><td align=center>0,258</td><td align=center>564,26</td><td align=center>562,76</td><td align=center>1,50</td><td align=center>-----</td><td align=center>25,06</td><td align=center>25,48</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,44</td><td align=center></td></tr>
+<tr>
+<td align=center>13.04.2005 16:00:00</td><td align=center>0,258</td><td align=center>572,90</td><td align=center>571,38</td><td align=center>1,52</td><td align=center>-----</td><td align=center>25,00</td><td align=center>25,46</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,44</td><td align=center></td></tr>
+<tr>
+<td align=center>13.04.2005 17:00:00</td><td align=center>0,258</td><td align=center>581,43</td><td align=center>579,90</td><td align=center>1,54</td><td align=center>-----</td><td align=center>25,06</td><td align=center>25,49</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,44</td><td align=center></td></tr>
+<tr>
+<td align=center>13.04.2005 18:00:00</td><td align=center>0,258</td><td align=center>590,07</td><td align=center>588,52</td><td align=center>1,55</td><td align=center>-----</td><td align=center>25,19</td><td align=center>25,81</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,44</td><td align=center></td></tr>
+<tr>
+<td align=center>13.04.2005 19:00:00</td><td align=center>0,258</td><td align=center>598,71</td><td align=center>597,14</td><td align=center>1,58</td><td align=center>-----</td><td align=center>25,32</td><td align=center>25,86</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,44</td><td align=center></td></tr>
+<tr>
+<td align=center>13.04.2005 20:00:00</td><td align=center>0,258</td><td align=center>607,36</td><td align=center>605,76</td><td align=center>1,60</td><td align=center>-----</td><td align=center>25,36</td><td align=center>25,61</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,44</td><td align=center></td></tr>
+<tr>
+<td align=center>13.04.2005 21:00:00</td><td align=center>0,258</td><td align=center>616,00</td><td align=center>614,38</td><td align=center>1,62</td><td align=center>-----</td><td align=center>25,35</td><td align=center>25,58</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,44</td><td align=center></td></tr>
+<tr>
+<td align=center>13.04.2005 22:00:00</td><td align=center>0,262</td><td align=center>624,64</td><td align=center>623,00</td><td align=center>1,64</td><td align=center>-----</td><td align=center>25,98</td><td align=center>25,85</td><td align=center>0,13</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>13.04.2005 23:00:00</td><td align=center>0,262</td><td align=center>626,22</td><td align=center>624,58</td><td align=center>1,64</td><td align=center>-----</td><td align=center>25,21</td><td align=center>25,69</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>14.04.2005 22:00:00</td><td align=center>0,262</td><td align=center>633,53</td><td align=center>631,87</td><td align=center>1,66</td><td align=center>-----</td><td align=center>25,24</td><td align=center>25,08</td><td align=center>0,16</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>14.04.2005 23:00:00</td><td align=center>0,262</td><td align=center>642,17</td><td align=center>640,50</td><td align=center>1,67</td><td align=center>-----</td><td align=center>25,16</td><td align=center>25,45</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>15.04.2005 00:00:00</td><td align=center>0,262</td><td align=center>644,00</td><td align=center>642,32</td><td align=center>1,68</td><td align=center>-----</td><td align=center>25,16</td><td align=center>25,61</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>15.04.2005 21:00:00</td><td align=center>0,262</td><td align=center>645,95</td><td align=center>644,26</td><td align=center>1,68</td><td align=center>-----</td><td align=center>24,41</td><td align=center>24,46</td><td align=center>-----</td><td align=center>6,86</td><td align=center>2,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>15.04.2005 22:00:00</td><td align=center>0,262</td><td align=center>654,60</td><td align=center>652,89</td><td align=center>1,71</td><td align=center>-----</td><td align=center>24,84</td><td align=center>24,83</td><td align=center>0,01</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>15.04.2005 23:00:00</td><td align=center>0,262</td><td align=center>659,10</td><td align=center>657,38</td><td align=center>1,72</td><td align=center>-----</td><td align=center>25,44</td><td align=center>25,19</td><td align=center>0,25</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>16.04.2005 14:00:00</td><td align=center>0,262</td><td align=center>661,47</td><td align=center>659,74</td><td align=center>1,72</td><td align=center>-----</td><td align=center>23,76</td><td align=center>24,02</td><td align=center>-----</td><td align=center>6,86</td><td align=center>2,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>16.04.2005 15:00:00</td><td align=center>0,262</td><td align=center>670,12</td><td align=center>668,37</td><td align=center>1,74</td><td align=center>-----</td><td align=center>24,47</td><td align=center>24,11</td><td align=center>0,36</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>16.04.2005 16:00:00</td><td align=center>0,262</td><td align=center>678,76</td><td align=center>677,00</td><td align=center>1,76</td><td align=center>-----</td><td align=center>25,60</td><td align=center>24,38</td><td align=center>1,22</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>16.04.2005 17:00:00</td><td align=center>0,262</td><td align=center>687,40</td><td align=center>685,62</td><td align=center>1,77</td><td align=center>-----</td><td align=center>27,58</td><td align=center>24,78</td><td align=center>2,80</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>16.04.2005 18:00:00</td><td align=center>0,262</td><td align=center>696,04</td><td align=center>694,25</td><td align=center>1,79</td><td align=center>-----</td><td align=center>27,77</td><td align=center>24,82</td><td align=center>2,95</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>16.04.2005 19:00:00</td><td align=center>0,262</td><td align=center>704,67</td><td align=center>702,87</td><td align=center>1,80</td><td align=center>-----</td><td align=center>27,88</td><td align=center>24,86</td><td align=center>3,02</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>16.04.2005 20:00:00</td><td align=center>0,262</td><td align=center>713,31</td><td align=center>711,50</td><td align=center>1,82</td><td align=center>-----</td><td align=center>27,99</td><td align=center>24,97</td><td align=center>3,01</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>16.04.2005 21:00:00</td><td align=center>0,262</td><td align=center>721,95</td><td align=center>720,12</td><td align=center>1,83</td><td align=center>-----</td><td align=center>28,08</td><td align=center>25,10</td><td align=center>2,99</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>16.04.2005 22:00:00</td><td align=center>0,262</td><td align=center>730,59</td><td align=center>728,74</td><td align=center>1,84</td><td align=center>-----</td><td align=center>28,19</td><td align=center>25,22</td><td align=center>2,97</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>16.04.2005 23:00:00</td><td align=center>0,262</td><td align=center>738,63</td><td align=center>736,77</td><td align=center>1,86</td><td align=center>-----</td><td align=center>28,25</td><td align=center>25,37</td><td align=center>2,89</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>17.04.2005 09:00:00</td><td align=center>0,262</td><td align=center>740,39</td><td align=center>738,53</td><td align=center>1,86</td><td align=center>-----</td><td align=center>24,22</td><td align=center>24,35</td><td align=center>-----</td><td align=center>6,86</td><td align=center>2,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>17.04.2005 10:00:00</td><td align=center>0,262</td><td align=center>749,04</td><td align=center>747,16</td><td align=center>1,88</td><td align=center>-----</td><td align=center>25,58</td><td align=center>24,66</td><td align=center>0,92</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>17.04.2005 11:00:00</td><td align=center>0,262</td><td align=center>757,68</td><td align=center>755,78</td><td align=center>1,90</td><td align=center>-----</td><td align=center>26,87</td><td align=center>24,91</td><td align=center>1,96</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>17.04.2005 12:00:00</td><td align=center>0,262</td><td align=center>766,32</td><td align=center>764,41</td><td align=center>1,91</td><td align=center>-----</td><td align=center>27,12</td><td align=center>25,08</td><td align=center>2,04</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>17.04.2005 13:00:00</td><td align=center>0,262</td><td align=center>774,96</td><td align=center>773,03</td><td align=center>1,93</td><td align=center>-----</td><td align=center>27,31</td><td align=center>25,21</td><td align=center>2,10</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>17.04.2005 14:00:00</td><td align=center>0,262</td><td align=center>783,60</td><td align=center>781,66</td><td align=center>1,94</td><td align=center>-----</td><td align=center>27,21</td><td align=center>25,21</td><td align=center>2,01</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>17.04.2005 15:00:00</td><td align=center>0,262</td><td align=center>792,23</td><td align=center>790,28</td><td align=center>1,95</td><td align=center>-----</td><td align=center>27,33</td><td align=center>25,10</td><td align=center>2,23</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>17.04.2005 16:00:00</td><td align=center>0,262</td><td align=center>800,87</td><td align=center>798,90</td><td align=center>1,97</td><td align=center>-----</td><td align=center>26,98</td><td align=center>25,20</td><td align=center>1,78</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>17.04.2005 17:00:00</td><td align=center>0,262</td><td align=center>809,51</td><td align=center>807,53</td><td align=center>1,98</td><td align=center>-----</td><td align=center>26,87</td><td align=center>24,96</td><td align=center>1,91</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>17.04.2005 18:00:00</td><td align=center>0,262</td><td align=center>818,15</td><td align=center>816,15</td><td align=center>2,00</td><td align=center>-----</td><td align=center>27,06</td><td align=center>25,24</td><td align=center>1,82</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>17.04.2005 19:00:00</td><td align=center>0,262</td><td align=center>826,78</td><td align=center>824,77</td><td align=center>2,01</td><td align=center>-----</td><td align=center>27,04</td><td align=center>25,21</td><td align=center>1,83</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>17.04.2005 20:00:00</td><td align=center>0,262</td><td align=center>835,42</td><td align=center>833,40</td><td align=center>2,02</td><td align=center>-----</td><td align=center>27,52</td><td align=center>26,25</td><td align=center>1,26</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>17.04.2005 21:00:00</td><td align=center>0,262</td><td align=center>844,06</td><td align=center>842,02</td><td align=center>2,04</td><td align=center>-----</td><td align=center>27,88</td><td align=center>26,34</td><td align=center>1,54</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>17.04.2005 22:00:00</td><td align=center>0,262</td><td align=center>849,53</td><td align=center>847,48</td><td align=center>2,05</td><td align=center>-----</td><td align=center>28,11</td><td align=center>26,14</td><td align=center>1,97</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>18.04.2005 20:00:00</td><td align=center>0,262</td><td align=center>851,02</td><td align=center>848,97</td><td align=center>2,05</td><td align=center>-----</td><td align=center>23,24</td><td align=center>23,40</td><td align=center>-----</td><td align=center>6,86</td><td align=center>2,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>18.04.2005 21:00:00</td><td align=center>0,262</td><td align=center>859,67</td><td align=center>857,60</td><td align=center>2,07</td><td align=center>-----</td><td align=center>23,67</td><td align=center>23,79</td><td align=center>-----</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>18.04.2005 22:00:00</td><td align=center>0,262</td><td align=center>868,32</td><td align=center>866,22</td><td align=center>2,09</td><td align=center>-----</td><td align=center>23,69</td><td align=center>23,94</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>18.04.2005 23:00:00</td><td align=center>0,262</td><td align=center>876,96</td><td align=center>874,85</td><td align=center>2,11</td><td align=center>-----</td><td align=center>23,74</td><td align=center>24,08</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>19.04.2005 00:00:00</td><td align=center>0,262</td><td align=center>880,42</td><td align=center>878,29</td><td align=center>2,12</td><td align=center>-----</td><td align=center>23,77</td><td align=center>24,14</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>19.04.2005 07:00:00</td><td align=center>0,262</td><td align=center>880,42</td><td align=center>878,29</td><td align=center>2,12</td><td align=center>-----</td><td align=center>23,31</td><td align=center>23,52</td><td align=center>-----</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>19.04.2005 08:00:00</td><td align=center>0,262</td><td align=center>880,42</td><td align=center>878,29</td><td align=center>2,12</td><td align=center>-----</td><td align=center>23,47</td><td align=center>23,75</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>19.04.2005 09:00:00</td><td align=center>0,262</td><td align=center>880,42</td><td align=center>878,29</td><td align=center>2,12</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>20.04.2005 07:00:00</td><td align=center>0,262</td><td align=center>880,42</td><td align=center>878,29</td><td align=center>2,12</td><td align=center>-----</td><td align=center>22,99</td><td align=center>23,13</td><td align=center>-----</td><td align=center>6,87</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>20.04.2005 08:00:00</td><td align=center>0,262</td><td align=center>880,42</td><td align=center>878,29</td><td align=center>2,12</td><td align=center>-----</td><td align=center>22,88</td><td align=center>23,17</td><td align=center>-----</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>20.04.2005 09:00:00</td><td align=center>0,262</td><td align=center>880,42</td><td align=center>878,29</td><td align=center>2,12</td><td align=center>-----</td><td align=center>22,86</td><td align=center>23,06</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>20.04.2005 10:00:00</td><td align=center>0,262</td><td align=center>880,42</td><td align=center>878,29</td><td align=center>2,12</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>20.04.2005 20:00:00</td><td align=center>0,262</td><td align=center>880,42</td><td align=center>878,29</td><td align=center>2,12</td><td align=center>-----</td><td align=center>22,68</td><td align=center>22,80</td><td align=center>-----</td><td align=center>6,87</td><td align=center>2,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>20.04.2005 21:00:00</td><td align=center>0,262</td><td align=center>880,42</td><td align=center>878,29</td><td align=center>2,12</td><td align=center>-----</td><td align=center>22,77</td><td align=center>23,02</td><td align=center>-----</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>20.04.2005 22:00:00</td><td align=center>0,262</td><td align=center>880,42</td><td align=center>878,29</td><td align=center>2,12</td><td align=center>-----</td><td align=center>22,93</td><td align=center>23,24</td><td align=center>-----</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>20.04.2005 23:00:00</td><td align=center>0,262</td><td align=center>880,42</td><td align=center>878,29</td><td align=center>2,12</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>21.04.2005 07:00:00</td><td align=center>0,262</td><td align=center>880,42</td><td align=center>878,29</td><td align=center>2,12</td><td align=center>-----</td><td align=center>22,75</td><td align=center>22,90</td><td align=center>-----</td><td align=center>6,86</td><td align=center>2,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>21.04.2005 08:00:00</td><td align=center>0,262</td><td align=center>880,42</td><td align=center>878,29</td><td align=center>2,12</td><td align=center>-----</td><td align=center>23,01</td><td align=center>23,32</td><td align=center>-----</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>21.04.2005 09:00:00</td><td align=center>0,262</td><td align=center>880,42</td><td align=center>878,29</td><td align=center>2,12</td><td align=center>-----</td><td align=center>23,13</td><td align=center>23,48</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>21.04.2005 10:00:00</td><td align=center>0,262</td><td align=center>880,42</td><td align=center>878,29</td><td align=center>2,12</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>21.04.2005 19:00:00</td><td align=center>0,262</td><td align=center>880,42</td><td align=center>878,29</td><td align=center>2,12</td><td align=center>-----</td><td align=center>22,95</td><td align=center>23,02</td><td align=center>-----</td><td align=center>6,86</td><td align=center>2,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>21.04.2005 20:00:00</td><td align=center>0,262</td><td align=center>880,42</td><td align=center>878,29</td><td align=center>2,12</td><td align=center>-----</td><td align=center>23,25</td><td align=center>23,40</td><td align=center>-----</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>21.04.2005 21:00:00</td><td align=center>0,262</td><td align=center>880,42</td><td align=center>878,29</td><td align=center>2,12</td><td align=center>-----</td><td align=center>23,34</td><td align=center>23,55</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>21.04.2005 22:00:00</td><td align=center>0,262</td><td align=center>880,42</td><td align=center>878,29</td><td align=center>2,12</td><td align=center>-----</td><td align=center>23,29</td><td align=center>23,57</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>21.04.2005 23:00:00</td><td align=center>0,262</td><td align=center>880,42</td><td align=center>878,29</td><td align=center>2,12</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>22.04.2005 07:00:00</td><td align=center>0,262</td><td align=center>880,42</td><td align=center>878,29</td><td align=center>2,12</td><td align=center>-----</td><td align=center>24,33</td><td align=center>24,59</td><td align=center>-----</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>22.04.2005 08:00:00</td><td align=center>0,262</td><td align=center>880,42</td><td align=center>878,29</td><td align=center>2,12</td><td align=center>-----</td><td align=center>24,38</td><td align=center>24,76</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>22.04.2005 09:00:00</td><td align=center>0,262</td><td align=center>880,42</td><td align=center>878,29</td><td align=center>2,12</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>23.04.2005 09:00:00</td><td align=center>0,262</td><td align=center>880,42</td><td align=center>878,29</td><td align=center>2,12</td><td align=center>-----</td><td align=center>23,29</td><td align=center>23,37</td><td align=center>-----</td><td align=center>6,87</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>23.04.2005 10:00:00</td><td align=center>0,262</td><td align=center>880,42</td><td align=center>878,29</td><td align=center>2,12</td><td align=center>-----</td><td align=center>23,59</td><td align=center>23,76</td><td align=center>-----</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>23.04.2005 11:00:00</td><td align=center>0,262</td><td align=center>880,42</td><td align=center>878,29</td><td align=center>2,12</td><td align=center>-----</td><td align=center>23,44</td><td align=center>23,78</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>23.04.2005 12:00:00</td><td align=center>0,262</td><td align=center>880,42</td><td align=center>878,29</td><td align=center>2,12</td><td align=center>-----</td><td align=center>23,35</td><td align=center>23,70</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>23.04.2005 13:00:00</td><td align=center>0,262</td><td align=center>880,42</td><td align=center>878,29</td><td align=center>2,12</td><td align=center>-----</td><td align=center>23,21</td><td align=center>23,62</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>23.04.2005 14:00:00</td><td align=center>0,262</td><td align=center>880,42</td><td align=center>878,29</td><td align=center>2,12</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>24.04.2005 11:00:00</td><td align=center>0,262</td><td align=center>880,42</td><td align=center>878,29</td><td align=center>2,12</td><td align=center>-----</td><td align=center>23,53</td><td align=center>23,55</td><td align=center>-----</td><td align=center>6,87</td><td align=center>2,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>24.04.2005 12:00:00</td><td align=center>0,262</td><td align=center>880,42</td><td align=center>878,29</td><td align=center>2,12</td><td align=center>-----</td><td align=center>23,65</td><td align=center>23,77</td><td align=center>-----</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>24.04.2005 13:00:00</td><td align=center>0,262</td><td align=center>880,42</td><td align=center>878,29</td><td align=center>2,12</td><td align=center>-----</td><td align=center>23,81</td><td align=center>24,02</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>24.04.2005 14:00:00</td><td align=center>0,262</td><td align=center>880,42</td><td align=center>878,29</td><td align=center>2,12</td><td align=center>-----</td><td align=center>23,71</td><td align=center>24,05</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>24.04.2005 15:00:00</td><td align=center>0,262</td><td align=center>880,42</td><td align=center>878,29</td><td align=center>2,12</td><td align=center>-----</td><td align=center>23,69</td><td align=center>24,05</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>24.04.2005 16:00:00</td><td align=center>0,262</td><td align=center>880,42</td><td align=center>878,29</td><td align=center>2,12</td><td align=center>-----</td><td align=center>23,66</td><td align=center>24,02</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>24.04.2005 17:00:00</td><td align=center>0,262</td><td align=center>880,42</td><td align=center>878,29</td><td align=center>2,12</td><td align=center>-----</td><td align=center>23,87</td><td align=center>24,22</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>24.04.2005 18:00:00</td><td align=center>0,262</td><td align=center>880,42</td><td align=center>878,29</td><td align=center>2,12</td><td align=center>-----</td><td align=center>23,92</td><td align=center>24,28</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>24.04.2005 21:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>24,06</td><td align=center>24,43</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>25.04.2005 00:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>25.04.2005 07:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>24,48</td><td align=center>24,46</td><td align=center>0,02</td><td align=center>6,86</td><td align=center>2,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>25.04.2005 12:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>25.04.2005 21:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>23,01</td><td align=center>23,17</td><td align=center>-----</td><td align=center>6,87</td><td align=center>2,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>25.04.2005 22:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>23,14</td><td align=center>23,87</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>25.04.2005 23:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>27.04.2005 07:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>23,16</td><td align=center>23,16</td><td align=center>-----</td><td align=center>6,87</td><td align=center>2,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>27.04.2005 08:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>23,55</td><td align=center>24,54</td><td align=center>-----</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>27.04.2005 09:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>23,63</td><td align=center>24,42</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>27.04.2005 10:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>02.05.2005 08:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>24,21</td><td align=center>24,52</td><td align=center>-----</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>02.05.2005 09:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>24,34</td><td align=center>25,18</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>02.05.2005 10:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>24,31</td><td align=center>25,16</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>02.05.2005 11:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>24,34</td><td align=center>25,30</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>02.05.2005 12:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>24,48</td><td align=center>25,42</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>02.05.2005 13:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>24,82</td><td align=center>25,29</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>02.05.2005 14:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>25,03</td><td align=center>25,58</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>02.05.2005 15:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>24,73</td><td align=center>25,50</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>02.05.2005 16:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>24,69</td><td align=center>25,42</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>02.05.2005 17:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>24,68</td><td align=center>25,42</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>02.05.2005 18:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>24,89</td><td align=center>25,60</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>02.05.2005 19:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>25,32</td><td align=center>26,02</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>02.05.2005 20:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>25,50</td><td align=center>26,23</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>02.05.2005 21:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>25,49</td><td align=center>26,13</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>02.05.2005 22:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>09.05.2005 10:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>24,46</td><td align=center>24,44</td><td align=center>0,03</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>09.05.2005 11:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>24,55</td><td align=center>24,66</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>09.05.2005 12:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>24,83</td><td align=center>25,01</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>09.05.2005 13:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>24,88</td><td align=center>25,18</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>09.05.2005 14:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>24,92</td><td align=center>25,30</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>09.05.2005 15:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>24,91</td><td align=center>25,40</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>09.05.2005 16:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>25,01</td><td align=center>25,51</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>09.05.2005 17:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>25,05</td><td align=center>25,57</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>09.05.2005 18:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>25,20</td><td align=center>25,72</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>09.05.2005 19:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>25,25</td><td align=center>25,78</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>09.05.2005 20:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>25,37</td><td align=center>25,88</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>09.05.2005 21:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>25,45</td><td align=center>26,02</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>09.05.2005 22:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>12.05.2005 12:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>22,36</td><td align=center>22,45</td><td align=center>-----</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>12.05.2005 13:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>22,48</td><td align=center>22,71</td><td align=center>-----</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>12.05.2005 14:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>22,77</td><td align=center>23,06</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>12.05.2005 15:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>22,77</td><td align=center>23,24</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>12.05.2005 16:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>22,82</td><td align=center>23,36</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>12.05.2005 17:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>22,80</td><td align=center>23,40</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>12.05.2005 18:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>22,79</td><td align=center>23,46</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>12.05.2005 19:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>23,21</td><td align=center>23,61</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>12.05.2005 20:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>23,38</td><td align=center>23,79</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>12.05.2005 21:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>23,42</td><td align=center>23,88</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>12.05.2005 22:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>22,88</td><td align=center>24,46</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>12.05.2005 23:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>13.05.2005 18:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>22,10</td><td align=center>22,26</td><td align=center>-----</td><td align=center>6,86</td><td align=center>2,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>13.05.2005 19:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>22,14</td><td align=center>23,06</td><td align=center>-----</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>13.05.2005 20:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>22,14</td><td align=center>23,22</td><td align=center>-----</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>13.05.2005 21:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>22,44</td><td align=center>23,67</td><td align=center>-----</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>13.05.2005 22:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>22,09</td><td align=center>23,33</td><td align=center>-----</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>13.05.2005 23:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>18.05.2005 20:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>23,64</td><td align=center>23,67</td><td align=center>-----</td><td align=center>6,87</td><td align=center>2,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>18.05.2005 21:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>19.05.2005 07:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>24,69</td><td align=center>24,80</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>19.05.2005 08:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>20.05.2005 07:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>24,37</td><td align=center>24,82</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>20.05.2005 08:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>24,52</td><td align=center>25,14</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>20.05.2005 09:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>24,45</td><td align=center>25,34</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>20.05.2005 10:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>24,28</td><td align=center>25,48</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>20.05.2005 11:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>25.05.2005 08:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>28,82</td><td align=center>28,94</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>25.05.2005 09:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>29.05.2005 20:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>26,64</td><td align=center>27,07</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>29.05.2005 21:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>31.05.2005 09:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>25,50</td><td align=center>25,98</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>31.05.2005 10:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>25,60</td><td align=center>26,83</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>31.05.2005 11:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>04.06.2005 09:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>23,51</td><td align=center>24,39</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>04.06.2005 10:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>05.06.2005 08:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>23,44</td><td align=center>23,19</td><td align=center>0,25</td><td align=center>6,87</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>05.06.2005 09:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>23,64</td><td align=center>24,34</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>05.06.2005 10:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>07.06.2005 08:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>24,78</td><td align=center>24,81</td><td align=center>-----</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>07.06.2005 09:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>25,05</td><td align=center>26,02</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>07.06.2005 10:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>08.06.2005 21:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>25,08</td><td align=center>25,41</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>08.06.2005 22:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>25,02</td><td align=center>26,13</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>08.06.2005 23:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>09.06.2005 08:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>25,51</td><td align=center>25,26</td><td align=center>0,25</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>09.06.2005 09:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>25,14</td><td align=center>26,13</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>09.06.2005 10:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>17.06.2005 20:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>25,89</td><td align=center>25,88</td><td align=center>0,00</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>17.06.2005 21:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>25,91</td><td align=center>27,01</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>17.06.2005 22:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>25,80</td><td align=center>27,40</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>17.06.2005 23:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>18.06.2005 14:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>25,71</td><td align=center>25,93</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>18.06.2005 15:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>25,61</td><td align=center>26,42</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>18.06.2005 16:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>25,52</td><td align=center>26,55</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>18.06.2005 17:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>25,51</td><td align=center>26,65</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>18.06.2005 18:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>25,48</td><td align=center>26,63</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>18.06.2005 19:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>25,42</td><td align=center>26,65</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>18.06.2005 20:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>25,39</td><td align=center>26,61</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>18.06.2005 21:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>25,35</td><td align=center>26,60</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>18.06.2005 22:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>19.06.2005 16:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>24,93</td><td align=center>25,31</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>19.06.2005 17:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>24,72</td><td align=center>25,91</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>19.06.2005 18:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>24,42</td><td align=center>25,97</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>19.06.2005 19:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>24,28</td><td align=center>25,83</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>19.06.2005 20:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>24,47</td><td align=center>25,91</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>19.06.2005 21:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>24,71</td><td align=center>26,08</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>19.06.2005 22:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>20.06.2005 10:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>23,06</td><td align=center>25,51</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>20.06.2005 11:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>23,01</td><td align=center>25,77</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>20.06.2005 12:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>23,06</td><td align=center>26,04</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>20.06.2005 13:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>23,08</td><td align=center>26,13</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>20.06.2005 14:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>20.06.2005 20:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>20.06.2005 21:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>21,79</td><td align=center>21,19</td><td align=center>0,60</td><td align=center>6,87</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>20.06.2005 22:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>22,02</td><td align=center>21,53</td><td align=center>0,49</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>20.06.2005 23:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>22,14</td><td align=center>21,81</td><td align=center>0,33</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>21.06.2005 00:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>25.06.2005 15:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>28,03</td><td align=center>27,81</td><td align=center>0,22</td><td align=center>6,88</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>25.06.2005 16:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>28,42</td><td align=center>28,08</td><td align=center>0,34</td><td align=center>6,91</td><td align=center>2,03</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>25.06.2005 17:00:00</td><td align=center>0,262</td><td align=center>880,62</td><td align=center>878,50</td><td align=center>2,12</td><td align=center>-----</td><td align=center>28,63</td><td align=center>28,03</td><td align=center>0,61</td><td align=center>6,91</td><td align=center>2,03</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>25.06.2005 18:00:00</td><td align=center>0,262</td><td align=center>884,57</td><td align=center>882,43</td><td align=center>2,13</td><td align=center>-----</td><td align=center>29,12</td><td align=center>29,11</td><td align=center>0,02</td><td align=center>6,91</td><td align=center>2,03</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>04.11.2005 14:00:00</td><td align=center>0,262</td><td align=center>892,34</td><td align=center>890,18</td><td align=center>2,15</td><td align=center>-----</td><td align=center>23,53</td><td align=center>24,10</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>04.11.2005 15:00:00</td><td align=center>0,262</td><td align=center>900,98</td><td align=center>898,80</td><td align=center>2,18</td><td align=center>-----</td><td align=center>23,86</td><td align=center>25,13</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>04.11.2005 16:00:00</td><td align=center>0,262</td><td align=center>909,63</td><td align=center>907,42</td><td align=center>2,20</td><td align=center>-----</td><td align=center>24,27</td><td align=center>25,75</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>04.11.2005 17:00:00</td><td align=center>0,262</td><td align=center>918,27</td><td align=center>916,04</td><td align=center>2,23</td><td align=center>-----</td><td align=center>24,60</td><td align=center>26,14</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>04.11.2005 18:00:00</td><td align=center>0,262</td><td align=center>926,91</td><td align=center>924,66</td><td align=center>2,25</td><td align=center>-----</td><td align=center>25,03</td><td align=center>26,59</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>04.11.2005 19:00:00</td><td align=center>0,262</td><td align=center>934,83</td><td align=center>932,56</td><td align=center>2,27</td><td align=center>-----</td><td align=center>25,09</td><td align=center>26,57</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>10.11.2005 09:00:00</td><td align=center>0,262</td><td align=center>941,03</td><td align=center>938,75</td><td align=center>2,28</td><td align=center>-----</td><td align=center>23,07</td><td align=center>23,29</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>10.11.2005 10:00:00</td><td align=center>0,262</td><td align=center>949,68</td><td align=center>947,37</td><td align=center>2,30</td><td align=center>-----</td><td align=center>23,38</td><td align=center>23,99</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>10.11.2005 11:00:00</td><td align=center>0,262</td><td align=center>958,33</td><td align=center>956,00</td><td align=center>2,32</td><td align=center>-----</td><td align=center>23,60</td><td align=center>24,29</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>10.11.2005 12:00:00</td><td align=center>0,262</td><td align=center>960,25</td><td align=center>957,92</td><td align=center>2,33</td><td align=center>-----</td><td align=center>23,71</td><td align=center>24,42</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>11.11.2005 00:00:00</td><td align=center>0,262</td><td align=center>966,57</td><td align=center>964,22</td><td align=center>2,34</td><td align=center>-----</td><td align=center>22,64</td><td align=center>22,93</td><td align=center>-----</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>11.11.2005 01:00:00</td><td align=center>0,262</td><td align=center>975,22</td><td align=center>972,85</td><td align=center>2,37</td><td align=center>-----</td><td align=center>23,00</td><td align=center>23,68</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>11.11.2005 02:00:00</td><td align=center>0,262</td><td align=center>983,87</td><td align=center>981,49</td><td align=center>2,38</td><td align=center>-----</td><td align=center>23,18</td><td align=center>23,89</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>11.11.2005 03:00:00</td><td align=center>0,262</td><td align=center>992,51</td><td align=center>990,12</td><td align=center>2,40</td><td align=center>-----</td><td align=center>23,28</td><td align=center>23,95</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>11.11.2005 04:00:00</td><td align=center>0,262</td><td align=center>1 001,16</td><td align=center>998,74</td><td align=center>2,42</td><td align=center>-----</td><td align=center>23,31</td><td align=center>23,97</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>11.11.2005 05:00:00</td><td align=center>0,262</td><td align=center>1 009,81</td><td align=center>1 007,37</td><td align=center>2,43</td><td align=center>-----</td><td align=center>23,31</td><td align=center>23,99</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>11.11.2005 06:00:00</td><td align=center>0,262</td><td align=center>1 018,45</td><td align=center>1 016,00</td><td align=center>2,46</td><td align=center>-----</td><td align=center>23,27</td><td align=center>24,00</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>11.11.2005 07:00:00</td><td align=center>0,262</td><td align=center>1 027,10</td><td align=center>1 024,62</td><td align=center>2,48</td><td align=center>-----</td><td align=center>23,24</td><td align=center>23,95</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>11.11.2005 08:00:00</td><td align=center>0,262</td><td align=center>1 035,75</td><td align=center>1 033,25</td><td align=center>2,50</td><td align=center>-----</td><td align=center>23,23</td><td align=center>23,98</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>11.11.2005 09:00:00</td><td align=center>0,262</td><td align=center>1 044,39</td><td align=center>1 041,87</td><td align=center>2,52</td><td align=center>-----</td><td align=center>23,23</td><td align=center>23,99</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>11.11.2005 10:00:00</td><td align=center>0,262</td><td align=center>1 045,50</td><td align=center>1 042,97</td><td align=center>2,52</td><td align=center>-----</td><td align=center>23,10</td><td align=center>23,71</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>11.11.2005 23:00:00</td><td align=center>0,262</td><td align=center>1 047,90</td><td align=center>1 045,37</td><td align=center>2,53</td><td align=center>-----</td><td align=center>23,31</td><td align=center>23,61</td><td align=center>-----</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>12.11.2005 00:00:00</td><td align=center>0,262</td><td align=center>1 056,55</td><td align=center>1 053,99</td><td align=center>2,55</td><td align=center>-----</td><td align=center>25,91</td><td align=center>25,03</td><td align=center>0,88</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>12.11.2005 01:00:00</td><td align=center>0,262</td><td align=center>1 065,18</td><td align=center>1 062,61</td><td align=center>2,57</td><td align=center>-----</td><td align=center>27,74</td><td align=center>26,21</td><td align=center>1,53</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>12.11.2005 02:00:00</td><td align=center>0,262</td><td align=center>1 069,25</td><td align=center>1 066,68</td><td align=center>2,57</td><td align=center>-----</td><td align=center>28,16</td><td align=center>26,17</td><td align=center>1,99</td><td align=center>6,91</td><td align=center>2,03</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>12.11.2005 10:00:00</td><td align=center>0,262</td><td align=center>1 072,75</td><td align=center>1 070,17</td><td align=center>2,58</td><td align=center>-----</td><td align=center>23,27</td><td align=center>23,26</td><td align=center>0,01</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>12.11.2005 11:00:00</td><td align=center>0,262</td><td align=center>1 081,39</td><td align=center>1 078,79</td><td align=center>2,60</td><td align=center>-----</td><td align=center>25,99</td><td align=center>24,76</td><td align=center>1,23</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>12.11.2005 12:00:00</td><td align=center>0,262</td><td align=center>1 090,02</td><td align=center>1 087,40</td><td align=center>2,61</td><td align=center>-----</td><td align=center>27,79</td><td align=center>25,83</td><td align=center>1,96</td><td align=center>6,91</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>12.11.2005 13:00:00</td><td align=center>0,262</td><td align=center>1 091,41</td><td align=center>1 088,79</td><td align=center>2,61</td><td align=center>-----</td><td align=center>27,99</td><td align=center>25,75</td><td align=center>2,24</td><td align=center>6,91</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>12.11.2005 20:00:00</td><td align=center>0,262</td><td align=center>1 091,57</td><td align=center>1 088,96</td><td align=center>2,62</td><td align=center>-----</td><td align=center>22,13</td><td align=center>22,50</td><td align=center>-----</td><td align=center>6,86</td><td align=center>2,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>12.11.2005 21:00:00</td><td align=center>0,262</td><td align=center>1 100,23</td><td align=center>1 097,59</td><td align=center>2,64</td><td align=center>-----</td><td align=center>24,88</td><td align=center>24,35</td><td align=center>0,53</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>12.11.2005 22:00:00</td><td align=center>0,262</td><td align=center>1 108,86</td><td align=center>1 106,21</td><td align=center>2,65</td><td align=center>-----</td><td align=center>27,39</td><td align=center>25,84</td><td align=center>1,55</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>12.11.2005 23:00:00</td><td align=center>0,262</td><td align=center>1 117,49</td><td align=center>1 114,82</td><td align=center>2,67</td><td align=center>-----</td><td align=center>28,09</td><td align=center>26,18</td><td align=center>1,92</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>13.11.2005 00:00:00</td><td align=center>0,262</td><td align=center>1 126,12</td><td align=center>1 123,44</td><td align=center>2,68</td><td align=center>-----</td><td align=center>28,28</td><td align=center>26,02</td><td align=center>2,26</td><td align=center>6,91</td><td align=center>2,03</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>13.11.2005 01:00:00</td><td align=center>0,262</td><td align=center>1 134,75</td><td align=center>1 132,06</td><td align=center>2,69</td><td align=center>-----</td><td align=center>28,02</td><td align=center>25,95</td><td align=center>2,07</td><td align=center>6,91</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>13.11.2005 02:00:00</td><td align=center>0,262</td><td align=center>1 143,38</td><td align=center>1 140,70</td><td align=center>2,68</td><td align=center>-----</td><td align=center>28,45</td><td align=center>26,24</td><td align=center>2,21</td><td align=center>6,91</td><td align=center>2,03</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>13.11.2005 03:00:00</td><td align=center>0,262</td><td align=center>1 148,72</td><td align=center>1 146,04</td><td align=center>2,68</td><td align=center>-----</td><td align=center>28,57</td><td align=center>26,32</td><td align=center>2,25</td><td align=center>6,91</td><td align=center>2,03</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>13.11.2005 09:00:00</td><td align=center>0,262</td><td align=center>1 150,61</td><td align=center>1 147,92</td><td align=center>2,68</td><td align=center>-----</td><td align=center>22,63</td><td align=center>22,76</td><td align=center>-----</td><td align=center>6,87</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>13.11.2005 10:00:00</td><td align=center>0,262</td><td align=center>1 159,25</td><td align=center>1 156,54</td><td align=center>2,71</td><td align=center>-----</td><td align=center>25,54</td><td align=center>24,62</td><td align=center>0,93</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>13.11.2005 11:00:00</td><td align=center>0,262</td><td align=center>1 167,88</td><td align=center>1 165,17</td><td align=center>2,71</td><td align=center>-----</td><td align=center>27,47</td><td align=center>25,68</td><td align=center>1,80</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>13.11.2005 12:00:00</td><td align=center>0,262</td><td align=center>1 176,51</td><td align=center>1 173,79</td><td align=center>2,72</td><td align=center>-----</td><td align=center>28,01</td><td align=center>26,04</td><td align=center>1,97</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>13.11.2005 13:00:00</td><td align=center>0,262</td><td align=center>1 184,22</td><td align=center>1 181,49</td><td align=center>2,73</td><td align=center>-----</td><td align=center>28,28</td><td align=center>26,14</td><td align=center>2,14</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>13.11.2005 14:00:00</td><td align=center>0,262</td><td align=center>1 191,09</td><td align=center>1 188,34</td><td align=center>2,74</td><td align=center>-----</td><td align=center>27,65</td><td align=center>26,04</td><td align=center>1,61</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>13.11.2005 15:00:00</td><td align=center>0,262</td><td align=center>1 199,72</td><td align=center>1 196,96</td><td align=center>2,76</td><td align=center>-----</td><td align=center>27,97</td><td align=center>26,60</td><td align=center>1,37</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>13.11.2005 16:00:00</td><td align=center>0,262</td><td align=center>1 208,35</td><td align=center>1 205,58</td><td align=center>2,77</td><td align=center>-----</td><td align=center>28,01</td><td align=center>26,19</td><td align=center>1,82</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>13.11.2005 23:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>27,50</td><td align=center>25,97</td><td align=center>1,52</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>14.11.2005 01:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>14.11.2005 10:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>25,43</td><td align=center>24,44</td><td align=center>0,99</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>14.11.2005 11:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>14.11.2005 21:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>24,89</td><td align=center>24,58</td><td align=center>0,32</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>14.11.2005 22:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>26,76</td><td align=center>24,99</td><td align=center>1,77</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>14.11.2005 23:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>27,85</td><td align=center>26,15</td><td align=center>1,70</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>15.11.2005 00:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>28,51</td><td align=center>26,68</td><td align=center>1,83</td><td align=center>6,91</td><td align=center>2,03</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>15.11.2005 01:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>15.11.2005 09:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>26,32</td><td align=center>24,90</td><td align=center>1,42</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>15.11.2005 10:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>27,75</td><td align=center>26,15</td><td align=center>1,60</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>15.11.2005 11:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>15.11.2005 20:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>24,93</td><td align=center>23,62</td><td align=center>1,31</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>15.11.2005 21:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>27,15</td><td align=center>25,42</td><td align=center>1,73</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>15.11.2005 22:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>28,43</td><td align=center>26,46</td><td align=center>1,97</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>15.11.2005 23:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>16.11.2005 21:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>22,18</td><td align=center>22,20</td><td align=center>-----</td><td align=center>6,86</td><td align=center>2,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>16.11.2005 22:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>26,73</td><td align=center>25,10</td><td align=center>1,63</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>16.11.2005 23:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>28,05</td><td align=center>26,20</td><td align=center>1,85</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>17.11.2005 06:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>23,73</td><td align=center>22,95</td><td align=center>0,77</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>17.11.2005 07:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>27,15</td><td align=center>25,43</td><td align=center>1,72</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>17.11.2005 08:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>28,35</td><td align=center>26,28</td><td align=center>2,08</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>17.11.2005 09:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>28,85</td><td align=center>26,59</td><td align=center>2,26</td><td align=center>6,91</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>17.11.2005 10:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>28,85</td><td align=center>26,69</td><td align=center>2,16</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>17.11.2005 11:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>28,86</td><td align=center>26,76</td><td align=center>2,09</td><td align=center>6,91</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>17.11.2005 12:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>17.11.2005 19:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>23,36</td><td align=center>22,63</td><td align=center>0,73</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>17.11.2005 20:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>26,25</td><td align=center>24,84</td><td align=center>1,42</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>17.11.2005 21:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>27,82</td><td align=center>25,92</td><td align=center>1,89</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>17.11.2005 22:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>28,87</td><td align=center>26,55</td><td align=center>2,32</td><td align=center>6,91</td><td align=center>2,03</td><td align=center>4,51</td><td align=center>U</td></tr>
+<tr>
+<td align=center>17.11.2005 23:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>29,58</td><td align=center>26,83</td><td align=center>2,75</td><td align=center>6,91</td><td align=center>2,03</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>18.11.2005 00:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>18.11.2005 08:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>21,95</td><td align=center>21,95</td><td align=center>0,01</td><td align=center>6,86</td><td align=center>2,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>18.11.2005 09:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>26,33</td><td align=center>25,13</td><td align=center>1,20</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>18.11.2005 10:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>18.11.2005 22:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>25,84</td><td align=center>24,81</td><td align=center>1,03</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>18.11.2005 23:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>28,59</td><td align=center>26,36</td><td align=center>2,23</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>19.11.2005 00:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>19.11.2005 09:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>22,67</td><td align=center>22,06</td><td align=center>0,61</td><td align=center>6,87</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>19.11.2005 10:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>26,31</td><td align=center>25,06</td><td align=center>1,24</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>19.11.2005 11:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>27,31</td><td align=center>25,91</td><td align=center>1,40</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>19.11.2005 12:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>28,45</td><td align=center>26,70</td><td align=center>1,75</td><td align=center>6,91</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>19.11.2005 13:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>28,68</td><td align=center>27,00</td><td align=center>1,67</td><td align=center>6,91</td><td align=center>2,03</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>19.11.2005 14:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>29,34</td><td align=center>27,43</td><td align=center>1,91</td><td align=center>6,91</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>19.11.2005 15:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>28,87</td><td align=center>27,19</td><td align=center>1,68</td><td align=center>6,91</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>19.11.2005 16:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>29,50</td><td align=center>27,38</td><td align=center>2,12</td><td align=center>6,91</td><td align=center>2,03</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>19.11.2005 17:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>29,16</td><td align=center>27,07</td><td align=center>2,09</td><td align=center>6,91</td><td align=center>2,03</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>19.11.2005 18:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>29,57</td><td align=center>27,26</td><td align=center>2,31</td><td align=center>6,91</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>19.11.2005 19:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>27,08</td><td align=center>27,69</td><td align=center>-----</td><td align=center>6,91</td><td align=center>2,03</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>19.11.2005 20:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>26,32</td><td align=center>26,11</td><td align=center>0,22</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>19.11.2005 21:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>25,69</td><td align=center>26,36</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>19.11.2005 22:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>28,26</td><td align=center>26,49</td><td align=center>1,77</td><td align=center>6,91</td><td align=center>2,03</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>19.11.2005 23:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>26,63</td><td align=center>27,45</td><td align=center>-----</td><td align=center>6,91</td><td align=center>2,03</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>20.11.2005 00:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>28,09</td><td align=center>27,25</td><td align=center>0,85</td><td align=center>6,91</td><td align=center>2,03</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>20.11.2005 01:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>20.11.2005 08:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>21,75</td><td align=center>21,79</td><td align=center>-----</td><td align=center>6,83</td><td align=center>1,99</td><td align=center>4,51</td><td align=center>U</td></tr>
+<tr>
+<td align=center>20.11.2005 09:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>24,30</td><td align=center>25,07</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>20.11.2005 10:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>24,97</td><td align=center>26,69</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>20.11.2005 11:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>25,48</td><td align=center>27,20</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>20.11.2005 12:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>26,56</td><td align=center>26,91</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>20.11.2005 13:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>27,74</td><td align=center>26,70</td><td align=center>1,05</td><td align=center>6,91</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>20.11.2005 14:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>27,49</td><td align=center>27,13</td><td align=center>0,36</td><td align=center>6,91</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>20.11.2005 15:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>28,57</td><td align=center>26,77</td><td align=center>1,80</td><td align=center>6,91</td><td align=center>2,03</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>20.11.2005 16:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>28,08</td><td align=center>27,30</td><td align=center>0,78</td><td align=center>6,91</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>20.11.2005 17:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>27,60</td><td align=center>27,52</td><td align=center>0,08</td><td align=center>6,91</td><td align=center>2,03</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>20.11.2005 18:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>27,60</td><td align=center>27,30</td><td align=center>0,30</td><td align=center>6,91</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>20.11.2005 19:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>26,26</td><td align=center>27,12</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>20.11.2005 20:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>25,98</td><td align=center>26,96</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>20.11.2005 21:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>28,71</td><td align=center>26,66</td><td align=center>2,05</td><td align=center>6,91</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>20.11.2005 22:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>27,12</td><td align=center>27,21</td><td align=center>-----</td><td align=center>6,91</td><td align=center>2,03</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>20.11.2005 23:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>21.11.2005 21:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>22,36</td><td align=center>22,25</td><td align=center>0,11</td><td align=center>6,87</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>21.11.2005 22:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>25,47</td><td align=center>25,90</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>21.11.2005 23:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>22.11.2005 08:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>23,10</td><td align=center>23,42</td><td align=center>-----</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>22.11.2005 09:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>24,63</td><td align=center>26,42</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>22.11.2005 10:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>22.11.2005 21:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>23,17</td><td align=center>23,18</td><td align=center>-----</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>22.11.2005 22:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>24,88</td><td align=center>25,96</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center>U</td></tr>
+<tr>
+<td align=center>22.11.2005 23:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>24.11.2005 05:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>21,39</td><td align=center>21,57</td><td align=center>-----</td><td align=center>6,86</td><td align=center>2,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>24.11.2005 06:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>26,83</td><td align=center>24,84</td><td align=center>1,99</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>24.11.2005 07:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>28,14</td><td align=center>25,75</td><td align=center>2,39</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>24.11.2005 08:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>28,54</td><td align=center>26,02</td><td align=center>2,52</td><td align=center>6,91</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>24.11.2005 09:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>28,68</td><td align=center>26,31</td><td align=center>2,37</td><td align=center>6,91</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>24.11.2005 10:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>28,78</td><td align=center>26,36</td><td align=center>2,41</td><td align=center>6,91</td><td align=center>2,03</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>24.11.2005 11:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>24.11.2005 21:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>20,70</td><td align=center>20,93</td><td align=center>-----</td><td align=center>6,84</td><td align=center>1,99</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>24.11.2005 22:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>26,47</td><td align=center>24,63</td><td align=center>1,85</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>24.11.2005 23:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>26.11.2005 09:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>25,06</td><td align=center>23,33</td><td align=center>1,73</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>26.11.2005 10:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>27,75</td><td align=center>25,35</td><td align=center>2,40</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>26.11.2005 11:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>28,74</td><td align=center>25,96</td><td align=center>2,78</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>26.11.2005 12:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>28,92</td><td align=center>26,36</td><td align=center>2,57</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>26.11.2005 13:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>29,12</td><td align=center>26,18</td><td align=center>2,93</td><td align=center>6,91</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>26.11.2005 14:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>28,89</td><td align=center>25,53</td><td align=center>3,36</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>26.11.2005 15:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>28,14</td><td align=center>25,14</td><td align=center>2,99</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>26.11.2005 16:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>28,04</td><td align=center>25,89</td><td align=center>2,16</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>26.11.2005 17:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>26.11.2005 19:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>22,44</td><td align=center>22,19</td><td align=center>0,24</td><td align=center>6,87</td><td align=center>2,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>26.11.2005 20:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>26,95</td><td align=center>24,84</td><td align=center>2,11</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>26.11.2005 21:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>28,39</td><td align=center>25,79</td><td align=center>2,60</td><td align=center>6,91</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>26.11.2005 22:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>28,77</td><td align=center>26,28</td><td align=center>2,49</td><td align=center>6,91</td><td align=center>2,03</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>26.11.2005 23:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>29,23</td><td align=center>26,62</td><td align=center>2,62</td><td align=center>6,91</td><td align=center>2,03</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>27.11.2005 00:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>29,92</td><td align=center>27,16</td><td align=center>2,76</td><td align=center>6,91</td><td align=center>2,03</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>27.11.2005 01:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>27.11.2005 09:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>21,44</td><td align=center>21,61</td><td align=center>-----</td><td align=center>6,85</td><td align=center>1,99</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>27.11.2005 10:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>03.12.2005 21:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>27,40</td><td align=center>25,71</td><td align=center>1,69</td><td align=center>10,00</td><td align=center>10,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>03.12.2005 22:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>29,24</td><td align=center>26,66</td><td align=center>2,58</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>03.12.2005 23:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>29,98</td><td align=center>26,90</td><td align=center>3,08</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>04.12.2005 00:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>04.12.2005 13:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>22,89</td><td align=center>22,98</td><td align=center>-----</td><td align=center>6,87</td><td align=center>2,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>04.12.2005 14:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>27,24</td><td align=center>25,35</td><td align=center>1,89</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>04.12.2005 15:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>28,25</td><td align=center>25,38</td><td align=center>2,87</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center>U</td></tr>
+<tr>
+<td align=center>04.12.2005 16:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>23,61</td><td align=center>25,46</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>04.12.2005 17:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>23,15</td><td align=center>25,35</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>04.12.2005 18:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>23,01</td><td align=center>25,21</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>04.12.2005 19:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>22,95</td><td align=center>25,03</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>04.12.2005 20:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>23,36</td><td align=center>25,03</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>04.12.2005 21:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>23,33</td><td align=center>25,39</td><td align=center>-----</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>04.12.2005 22:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>05.12.2005 06:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>23,02</td><td align=center>22,45</td><td align=center>0,56</td><td align=center>6,86</td><td align=center>2,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>05.12.2005 07:00:00</td><td align=center>0,262</td><td align=center>1 213,78</td><td align=center>1 210,87</td><td align=center>2,91</td><td align=center>-----</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>4,51</td><td align=center></td></tr>
+<tr>
+<td align=center>05.12.2005 07:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>04.01.2006 08:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>21,57</td><td align=center>22,49</td><td align=center>-----</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>04.01.2006 09:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>21,50</td><td align=center>24,86</td><td align=center>-----</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>04.01.2006 10:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>04.01.2006 12:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>20,27</td><td align=center>18,77</td><td align=center>1,50</td><td align=center>6,87</td><td align=center>2,00</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>04.01.2006 13:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>21,93</td><td align=center>18,60</td><td align=center>3,32</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>04.01.2006 14:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>12.03.2006 10:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>29,61</td><td align=center>24,95</td><td align=center>4,66</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>12.03.2006 11:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>29,93</td><td align=center>24,79</td><td align=center>5,15</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>12.03.2006 12:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>30,20</td><td align=center>25,66</td><td align=center>4,54</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>12.03.2006 13:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>30,71</td><td align=center>25,95</td><td align=center>4,76</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>12.03.2006 14:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>25,79</td><td align=center>20,50</td><td align=center>5,29</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>12.03.2006 15:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>25,71</td><td align=center>21,77</td><td align=center>3,95</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>12.03.2006 16:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>26,26</td><td align=center>22,56</td><td align=center>3,71</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>12.03.2006 17:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>26,33</td><td align=center>23,12</td><td align=center>3,21</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>12.03.2006 18:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>25,99</td><td align=center>23,33</td><td align=center>2,66</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>12.03.2006 19:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>25,42</td><td align=center>23,35</td><td align=center>2,07</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>12.03.2006 20:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>26,40</td><td align=center>23,53</td><td align=center>2,87</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>12.03.2006 21:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>25,80</td><td align=center>23,72</td><td align=center>2,07</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>12.03.2006 22:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>26,28</td><td align=center>23,69</td><td align=center>2,59</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>12.03.2006 23:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>16.03.2006 23:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>25,18</td><td align=center>23,22</td><td align=center>1,96</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>17.03.2006 00:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>25,83</td><td align=center>23,40</td><td align=center>2,43</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>17.03.2006 01:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>18.03.2006 19:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>24,10</td><td align=center>22,74</td><td align=center>1,36</td><td align=center>6,89</td><td align=center>2,01</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>18.03.2006 20:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>24,02</td><td align=center>22,80</td><td align=center>1,22</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>18.03.2006 21:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>24,07</td><td align=center>22,73</td><td align=center>1,34</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>18.03.2006 22:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>23,34</td><td align=center>22,42</td><td align=center>0,92</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>18.03.2006 23:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>23,81</td><td align=center>22,28</td><td align=center>1,53</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>19.03.2006 00:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>19.03.2006 08:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>26,12</td><td align=center>23,10</td><td align=center>3,02</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>19.03.2006 09:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>24,54</td><td align=center>23,45</td><td align=center>1,10</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>19.03.2006 10:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>25,42</td><td align=center>23,54</td><td align=center>1,88</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>19.03.2006 11:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>26,03</td><td align=center>23,72</td><td align=center>2,31</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>0,00</td><td align=center>U</td></tr>
+<tr>
+<td align=center>19.03.2006 12:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>25,75</td><td align=center>23,96</td><td align=center>1,79</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>19.03.2006 13:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>19.03.2006 15:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>22,78</td><td align=center>22,64</td><td align=center>0,14</td><td align=center>6,88</td><td align=center>2,01</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>19.03.2006 16:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>23,13</td><td align=center>22,28</td><td align=center>0,86</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>19.03.2006 17:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>26,43</td><td align=center>22,61</td><td align=center>3,82</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>19.03.2006 18:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>23,25</td><td align=center>22,55</td><td align=center>0,70</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>19.03.2006 19:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>23,47</td><td align=center>22,37</td><td align=center>1,10</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>19.03.2006 20:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>23,41</td><td align=center>22,15</td><td align=center>1,26</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>19.03.2006 21:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>23,13</td><td align=center>22,01</td><td align=center>1,11</td><td align=center>6,89</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>19.03.2006 22:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>22,78</td><td align=center>22,01</td><td align=center>0,77</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>19.03.2006 23:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>22,53</td><td align=center>21,89</td><td align=center>0,64</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr>
+<td align=center>20.03.2006 00:00:00</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>22,93</td><td align=center>21,80</td><td align=center>1,13</td><td align=center>6,90</td><td align=center>2,02</td><td align=center>0,00</td><td align=center></td></tr>
+<tr border=0>
+<td align=center><b>Èעמדמ:</b></td><td align=center><b>113,640</b></td><td align=center><b>388 604,88</b></td><td align=center><b>387 651,38</b></td><td align=center><b>953,49</b></td><td align=center><b>0,00</b></td><td align=center><b>10 673,65</b></td><td align=center><b>10 493,71</b></td><td align=center><b>360,66</b></td><td align=center><b>2 939,05</b></td><td align=center><b>866,94</b></td><td align=center><b>1 957,75</b></td></tr>
+</table>
+<br><table border=1><tr><td align=center>Äאעא/Âנולÿ</td><td align=center>Q</td><td align=center>M1</td><td align=center>M2</td><td align=center>Tp</td></tr><tr border=0>
+<td align=center>20.03.2006 00:00:00</td><td align=center>113,640</td><td align=center>388 604,88</td><td align=center>387 651,38</td><td align=center>1 957,75</td></tr>
+<tr border=0>
+<td align=center>----</td><td align=center>0,000</td><td align=center>0,00</td><td align=center>0,00</td><td align=center>0,00</td></tr>
+</table>
+</body></html>

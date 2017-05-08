@@ -1,0 +1,16 @@
+<project name="UCS" default="create-manifest" basedir=".">
+	<property name="dest-dir" value="" />
+	<property name="project-name" value="" />
+
+	<target name="create-manifest" >
+    <tstamp>
+      <format property="date" pattern="dd-MM-yy hh:mm"/>
+    </tstamp>
+<echo file="${dest-dir}/manifest.mf">Manifest-Version: 1.0
+Created-By: 1.0 (Sergey Fedoseev) ${date}
+Implementation: ${project-name}
+</echo>
+    
+  </target>
+
+</project>

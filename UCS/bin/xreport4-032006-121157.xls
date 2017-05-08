@@ -1,0 +1,138 @@
+<html><body>
+<h3>Отчет за период с01.02.2005 по 20.03.2006 (БД:ошибок)</h3><table width=100% border=0>
+<tr>
+<td align=left>Номер: 00032779</td>
+<td align=right>Тип прибора: КМ-5-2 v02.29</td>
+</tr>
+</table>
+<br>
+<table width=100% border=1>
+<tr>
+<td align=center>Код</td><td align=center>Дата/Время</td><td align=center>Описание</td></tr>
+<tr>
+<td align=center>99</td><td align=center>29.08.2005 14:52:12</td><td align=center>Было выполнено изменение даты и/или времени в RTC теплосчетчика</td></tr>
+<tr>
+<td align=center>122</td><td align=center>29.08.2005 14:52:23</td><td align=center>Сбой питания</td></tr>
+<tr>
+<td align=center>120</td><td align=center>29.08.2005 14:52:33</td><td align=center>Неисправность в цепи термопреобразователей КМ-5</td></tr>
+<tr>
+<td align=center>121</td><td align=center>29.08.2005 14:52:53</td><td align=center>Останов счета</td></tr>
+<tr>
+<td align=center>102</td><td align=center>30.08.2005 10:42:17</td><td align=center>Обнуление интеграторов за час</td></tr>
+<tr>
+<td align=center>122</td><td align=center>30.08.2005 10:42:17</td><td align=center>Сбой питания</td></tr>
+<tr>
+<td align=center>78</td><td align=center>30.08.2005 10:42:17</td><td align=center>ta < минимума tamin (по умолчанию tamin = - 60°С)</td></tr>
+<tr>
+<td align=center>85</td><td align=center>30.08.2005 14:51:59</td><td align=center>Gv1 > максимума Gv1max</td></tr>
+<tr>
+<td align=center>122</td><td align=center>30.08.2005 16:43:37</td><td align=center>Сбой питания</td></tr>
+<tr>
+<td align=center>120</td><td align=center>30.08.2005 16:43:37</td><td align=center>Неисправность в цепи термопреобразователей КМ-5</td></tr>
+<tr>
+<td align=center>114</td><td align=center>30.08.2005 16:45:52</td><td align=center>Ошибка обмена с ППС</td></tr>
+<tr>
+<td align=center>122</td><td align=center>30.09.2005 10:37:23</td><td align=center>Сбой питания</td></tr>
+<tr>
+<td align=center>114</td><td align=center>30.09.2005 10:37:23</td><td align=center>Ошибка обмена с ППС</td></tr>
+<tr>
+<td align=center>121</td><td align=center>30.09.2005 10:37:31</td><td align=center>Останов счета</td></tr>
+<tr>
+<td align=center>122</td><td align=center>30.09.2005 10:43:50</td><td align=center>Сбой питания</td></tr>
+<tr>
+<td align=center>122</td><td align=center>30.09.2005 10:50:15</td><td align=center>Сбой питания</td></tr>
+<tr>
+<td align=center>122</td><td align=center>04.10.2005 11:31:36</td><td align=center>Сбой питания</td></tr>
+<tr>
+<td align=center>122</td><td align=center>07.10.2005 11:44:43</td><td align=center>Сбой питания</td></tr>
+<tr>
+<td align=center>122</td><td align=center>11.10.2005 06:43:09</td><td align=center>Сбой питания</td></tr>
+<tr>
+<td align=center>64</td><td align=center>11.10.2005 07:43:47</td><td align=center>U канала G ППС > допустимого максимума</td></tr>
+<tr>
+<td align=center>64</td><td align=center>11.10.2005 07:44:36</td><td align=center>U канала G ППС > допустимого максимума</td></tr>
+<tr>
+<td align=center>102</td><td align=center>13.10.2005 11:20:22</td><td align=center>Обнуление интеграторов за час</td></tr>
+<tr>
+<td align=center>122</td><td align=center>13.10.2005 11:20:22</td><td align=center>Сбой питания</td></tr>
+<tr>
+<td align=center>122</td><td align=center>18.10.2005 12:31:52</td><td align=center>Сбой питания</td></tr>
+<tr>
+<td align=center>117</td><td align=center>20.10.2005 07:23:51</td><td align=center>Обрыв в цепи датчика P2 КМ-5</td></tr>
+<tr>
+<td align=center>118</td><td align=center>20.10.2005 07:25:06</td><td align=center>Обрыв в цепи датчика P1</td></tr>
+<tr>
+<td align=center>122</td><td align=center>20.10.2005 08:58:36</td><td align=center>Сбой питания</td></tr>
+<tr>
+<td align=center>78</td><td align=center>20.10.2005 08:58:36</td><td align=center>ta < минимума tamin (по умолчанию tamin = - 60°С)</td></tr>
+<tr>
+<td align=center>122</td><td align=center>21.10.2005 07:57:06</td><td align=center>Сбой питания</td></tr>
+<tr>
+<td align=center>122</td><td align=center>21.10.2005 08:01:14</td><td align=center>Сбой питания</td></tr>
+<tr>
+<td align=center>122</td><td align=center>21.10.2005 08:02:25</td><td align=center>Сбой питания</td></tr>
+<tr>
+<td align=center>122</td><td align=center>21.10.2005 08:06:46</td><td align=center>Сбой питания</td></tr>
+<tr>
+<td align=center>122</td><td align=center>21.10.2005 08:11:03</td><td align=center>Сбой питания</td></tr>
+<tr>
+<td align=center>120</td><td align=center>21.10.2005 08:11:03</td><td align=center>Неисправность в цепи термопреобразователей КМ-5</td></tr>
+<tr>
+<td align=center>122</td><td align=center>21.10.2005 09:00:40</td><td align=center>Сбой питания</td></tr>
+<tr>
+<td align=center>122</td><td align=center>05.11.2005 21:08:26</td><td align=center>Сбой питания</td></tr>
+<tr>
+<td align=center>122</td><td align=center>09.11.2005 14:30:13</td><td align=center>Сбой питания</td></tr>
+<tr>
+<td align=center>122</td><td align=center>09.11.2005 14:31:17</td><td align=center>Сбой питания</td></tr>
+<tr>
+<td align=center>121</td><td align=center>09.11.2005 14:32:10</td><td align=center>Останов счета</td></tr>
+<tr>
+<td align=center>122</td><td align=center>09.11.2005 14:35:17</td><td align=center>Сбой питания</td></tr>
+<tr>
+<td align=center>122</td><td align=center>09.11.2005 14:36:38</td><td align=center>Сбой питания</td></tr>
+<tr>
+<td align=center>122</td><td align=center>21.11.2005 12:59:20</td><td align=center>Сбой питания</td></tr>
+<tr>
+<td align=center>122</td><td align=center>24.11.2005 14:48:55</td><td align=center>Сбой питания</td></tr>
+<tr>
+<td align=center>122</td><td align=center>30.11.2005 09:23:25</td><td align=center>Сбой питания</td></tr>
+<tr>
+<td align=center>122</td><td align=center>30.11.2005 09:25:07</td><td align=center>Сбой питания</td></tr>
+<tr>
+<td align=center>121</td><td align=center>30.11.2005 09:25:07</td><td align=center>Останов счета</td></tr>
+<tr>
+<td align=center>67</td><td align=center>30.11.2005 19:37:34</td><td align=center>U канала G КМ-5 > допустимого максимума</td></tr>
+<tr>
+<td align=center>122</td><td align=center>01.12.2005 13:56:22</td><td align=center>Сбой питания</td></tr>
+<tr>
+<td align=center>122</td><td align=center>05.12.2005 08:03:55</td><td align=center>Сбой питания</td></tr>
+<tr>
+<td align=center>67</td><td align=center>05.12.2005 12:15:09</td><td align=center>U канала G КМ-5 > допустимого максимума</td></tr>
+<tr>
+<td align=center>67</td><td align=center>05.12.2005 12:15:46</td><td align=center>U канала G КМ-5 > допустимого максимума</td></tr>
+<tr>
+<td align=center>67</td><td align=center>05.12.2005 13:01:25</td><td align=center>U канала G КМ-5 > допустимого максимума</td></tr>
+<tr>
+<td align=center>122</td><td align=center>05.12.2005 14:00:49</td><td align=center>Сбой питания</td></tr>
+<tr>
+<td align=center>122</td><td align=center>05.12.2005 15:04:51</td><td align=center>Сбой питания</td></tr>
+<tr>
+<td align=center>122</td><td align=center>05.12.2005 16:00:38</td><td align=center>Сбой питания</td></tr>
+<tr>
+<td align=center>67</td><td align=center>05.12.2005 16:17:33</td><td align=center>U канала G КМ-5 > допустимого максимума</td></tr>
+<tr>
+<td align=center>64</td><td align=center>05.12.2005 16:23:14</td><td align=center>U канала G ППС > допустимого максимума</td></tr>
+<tr>
+<td align=center>85</td><td align=center>05.12.2005 16:23:37</td><td align=center>Gv1 > максимума Gv1max</td></tr>
+<tr>
+<td align=center>85</td><td align=center>05.12.2005 16:23:51</td><td align=center>Gv1 > максимума Gv1max</td></tr>
+<tr>
+<td align=center>122</td><td align=center>12.12.2005 12:02:55</td><td align=center>Сбой питания</td></tr>
+<tr>
+<td align=center>122</td><td align=center>01.01.2006 08:41:41</td><td align=center>Сбой питания</td></tr>
+<tr>
+<td align=center>122</td><td align=center>01.01.2006 08:51:13</td><td align=center>Сбой питания</td></tr>
+<tr>
+<td align=center>122</td><td align=center>05.01.2006 09:37:17</td><td align=center>Сбой питания</td></tr>
+</body></html>
