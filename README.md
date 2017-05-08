@@ -7,6 +7,8 @@ this program simulates AP-5 and can control real KM-5 heat-meter.
 With this program you can also access internal KM-5 database in order to get reports for 
 a period of time
 
+Photos and texts bellow you can find on official www.tbnenergo.ru resources
+
 ![ap5](https://github.com/stowage/km-5-pult/raw/master/ap5.png "AP-5")
 
 http://www.tbnenergo.ru/file/rukovodstvo-po-ekspluatatsii-adaptera-periferii-ap-5.pdf
